@@ -1,0 +1,9 @@
+FlagEmbedding
+faiss-cpu
+transformers<4.46
+openai
+pydantic>=2.7
+pymupdf
+beautifulsoup4
+pandas
+numpy
